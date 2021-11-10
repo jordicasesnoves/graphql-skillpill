@@ -12,10 +12,27 @@ Install the dependencies:
 npm install
 ```
 
-Run the project in development mode:
+You'll also need json-server for creating a mocked REST API:
 
 ```bash
-npm run dev
+npm install -g json-server
 ```
 
-You can access to the server at [http://localhost:4000/](http://localhost:4000/)
+Run the project:
+
+```bash
+# Run the Apollo Server
+npm run dev
+
+# Run the json-server
+json-server --watch db.json
+```
+
+You can access to the Apollo Server at [http://localhost:4000/](http://localhost:4000/)
+
+## TODO
+
+- Get all the users
+- Get a single user
+- Get an artist by its name
+- Save a user favorite artist

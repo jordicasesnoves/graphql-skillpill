@@ -29,4 +29,6 @@ yarn.lock
 # vercel
 .vercel
 
+index.solution.js
+
 package-lock.json

@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "favoriteArtists": ["145459"]
+    },
+    {
+      "id": 2,
+      "name": "Helen",
+      "favoriteArtists": []
+    },
+    {
+      "id": 3,
+      "name": "Brian",
+      "favoriteArtists": []
+    }
+  ]
+}
