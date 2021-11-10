@@ -1,10 +1,4 @@
 const { ApolloServer, gql } = require("apollo-server");
-const {
-  getArtist,
-  saveFavoriteArtist,
-  getUser,
-  getUsers,
-} = require("./lib/api");
 
 const typeDefs = gql`
   # Comments in GraphQL strings (such as this one) start with the hash (#) symbol.

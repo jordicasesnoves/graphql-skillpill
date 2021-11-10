@@ -35,4 +35,5 @@ You can access to the Apollo Server at [http://localhost:4000/](http://localhost
 - Get all the users
 - Get a single user
 - Get an artist by its name
+- Get user favorite artists
 - Save a user favorite artist
