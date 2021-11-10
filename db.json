@@ -3,17 +3,17 @@
     {
       "id": 1,
       "name": "John",
-      "favoriteArtists": ["145459"]
+      "favoriteArtistsIds": ["145459"]
     },
     {
       "id": 2,
       "name": "Helen",
-      "favoriteArtists": []
+      "favoriteArtistsIds": []
     },
     {
       "id": 3,
       "name": "Brian",
-      "favoriteArtists": []
+      "favoriteArtistsIds": []
     }
   ]
 }
