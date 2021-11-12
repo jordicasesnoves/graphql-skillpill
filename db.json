@@ -3,12 +3,16 @@
     {
       "id": 1,
       "name": "John",
-      "favoriteArtistsIds": ["145459"]
+      "favoriteArtistsIds": [
+        145459
+      ]
     },
     {
       "id": 2,
       "name": "Helen",
-      "favoriteArtistsIds": []
+      "favoriteArtistsIds": [
+        "111239"
+      ]
     },
     {
       "id": 3,
